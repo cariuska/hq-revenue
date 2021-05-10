@@ -10,6 +10,20 @@ Backend Engineering Assignment
 
 ## Task 2: Reporting
 
+### Execute run
+
+```
+cd "Reporting\Reporting"
+dotnet run
+```
+
+### Result
+The file will be generated in the folder:
+```
+"Reporting\Reporting\report.xlsx"
+```
+
+
 ---
 
 ## Task 3: Web Service / API
