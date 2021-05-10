@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "3UzLNH05W7wHOM/0F7ulRYottZDS9fGBxz5Cu+EhwauCUTZtNti50W8WwC/294yKc1d9nnvjHaMK6aC36LIqzg==",
+  "dgSpecHash": "aNVhOXEQtNJ+oMthWWtMH+Ay2xw7uhZEg706v2+Hsd+Xi9snhbSN35cXqqCCSCfZVRZ8cOCPRKaey4ECJ9GyiQ==",
   "success": true,
   "projectFilePath": "D:\\Arquivos\\Projetos\\hq-revenue\\Reporting\\Reporting\\Reporting.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\tcari\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\tcari\\.nuget\\packages\\swiftexcel\\1.0.8\\swiftexcel.1.0.8.nupkg.sha512",
+    "C:\\Users\\tcari\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,17 @@
+D:\Arquivos\Projetos\hq-revenue\Reporting\Reporting\bin\Debug\netcoreapp3.1\Reporting.exe
+D:\Arquivos\Projetos\hq-revenue\Reporting\Reporting\bin\Debug\netcoreapp3.1\Reporting.deps.json
+D:\Arquivos\Projetos\hq-revenue\Reporting\Reporting\bin\Debug\netcoreapp3.1\Reporting.runtimeconfig.json
+D:\Arquivos\Projetos\hq-revenue\Reporting\Reporting\bin\Debug\netcoreapp3.1\Reporting.runtimeconfig.dev.json
+D:\Arquivos\Projetos\hq-revenue\Reporting\Reporting\bin\Debug\netcoreapp3.1\Reporting.dll
+D:\Arquivos\Projetos\hq-revenue\Reporting\Reporting\bin\Debug\netcoreapp3.1\Reporting.pdb
+D:\Arquivos\Projetos\hq-revenue\Reporting\Reporting\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Arquivos\Projetos\hq-revenue\Reporting\Reporting\obj\Debug\netcoreapp3.1\Reporting.csprojAssemblyReference.cache
+D:\Arquivos\Projetos\hq-revenue\Reporting\Reporting\obj\Debug\netcoreapp3.1\Reporting.AssemblyInfoInputs.cache
+D:\Arquivos\Projetos\hq-revenue\Reporting\Reporting\obj\Debug\netcoreapp3.1\Reporting.AssemblyInfo.cs
+D:\Arquivos\Projetos\hq-revenue\Reporting\Reporting\obj\Debug\netcoreapp3.1\Reporting.csproj.CoreCompileInputs.cache
+D:\Arquivos\Projetos\hq-revenue\Reporting\Reporting\obj\Debug\netcoreapp3.1\Reporting.csproj.CopyComplete
+D:\Arquivos\Projetos\hq-revenue\Reporting\Reporting\obj\Debug\netcoreapp3.1\Reporting.dll
+D:\Arquivos\Projetos\hq-revenue\Reporting\Reporting\obj\Debug\netcoreapp3.1\Reporting.pdb
+D:\Arquivos\Projetos\hq-revenue\Reporting\Reporting\obj\Debug\netcoreapp3.1\Reporting.genruntimeconfig.cache
+D:\Arquivos\Projetos\hq-revenue\Reporting\Reporting\bin\Debug\netcoreapp3.1\Data\hotelrates.json
+D:\Arquivos\Projetos\hq-revenue\Reporting\Reporting\bin\Debug\netcoreapp3.1\SwiftExcel.dll
